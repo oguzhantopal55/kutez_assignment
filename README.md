@@ -1,1 +1,1 @@
-Çalıştırmak işin önce terminalde backend klasörünün içerisinde node servers.js kodu ardından başka bir terminalde frontend dosyası içerisinden npm start komudu yazılmalı.
+Çalıştırmak işin önce terminalde backend klasörünün içerisinde node servers.js kodu ardından frontend dosyası içerisinden npm start komudu yazılmalı.Ayrıca sitenin ekran görüntüsü proje içinde bulunmaktadır.
